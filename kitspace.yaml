@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/COILSW01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/COILSW01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/COILSW01
+summary: Module for coil switching up to 48 V DC

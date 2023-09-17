@@ -1,0 +1,13 @@
+description: Module for coil switching up to 48 V DC
+github_branch: COILSW01A
+github_description: Module for coil switching up to 48 V DC
+github_repo: COILSW01
+github_url: https://github.com/mlab-modules/COILSW01
+homepage: false
+images:
+- doc/img/COILSW01A_QRcode.png
+mark: 50
+status: 0
+tags: []
+title: COILSW01
+updated: '2023-09-17T11:41:36.443980+00:00'
