@@ -1,0 +1,12 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"C3","470uF/63V","CP_Radial_D12.5mm_P5.00mm",8.2550,26.0350,0.0000,top
+"J2","HEADER_1x02","Straight_1x02",12.7000,36.1950,0.0000,top
+"J3","HEADER_2x01_PARALLEL","Straight_1x02",15.2400,36.1950,0.0000,top
+"M1","HOLE","MountingHole_3mm",35.5600,5.0800,0.0000,top
+"M2","HOLE","MountingHole_3mm",35.5600,35.5600,0.0000,top
+"M3","HOLE","MountingHole_3mm",5.0800,5.0800,0.0000,top
+"M4","HOLE","MountingHole_3mm",5.0800,35.5600,0.0000,top
+"P1","WAGO256-RED","WAGO256",12.7000,7.6200,90.0000,top
+"P2","WAGO256-BLUE","WAGO256",27.9400,7.6200,90.0000,top
+"P3","WAGO256-RED","WAGO256",17.7800,7.6200,90.0000,top
+"P4","WAGO256-RED","WAGO256",22.8600,7.6200,90.0000,top
