@@ -5,9 +5,18 @@ github_repo: COILSW01
 github_url: https://github.com/mlab-modules/COILSW01
 homepage: false
 images:
+- doc/gen/img/COILSW01-bottom.png
+- doc/gen/img/COILSW01-top.png
 - doc/img/COILSW01A_QRcode.png
+- doc/gen/COILSW01-schematic.svg
+- doc/gen/img/COILSW01-top.svg
+- doc/gen/img/COILSW01-bottom.svg
+- hw/cam_profi/assembly/COILSW01-assembly_page_02.svg
+- hw/cam_profi/assembly/COILSW01-assembly_page_01.svg
 mark: 50
+mod_ibom: hw/cam_profi/COILSW01-ibom.html
+mod_scheme: doc/gen/COILSW01-schematic.pdf
 status: 0
 tags: []
 title: COILSW01
-updated: '2024-07-06T18:59:33.268290+00:00'
+updated: '2024-07-06T19:01:33.099352+00:00'
