@@ -4,6 +4,7 @@ github_description: Module for coil switching up to 48 V DC
 github_repo: COILSW01
 github_url: https://github.com/mlab-modules/COILSW01
 homepage: false
+image_title: doc/gen/img/COILSW01-top.png
 images:
 - doc/gen/img/COILSW01-bottom.png
 - doc/gen/img/COILSW01-top.png
@@ -16,7 +17,7 @@ images:
 mark: 50
 mod_ibom: hw/cam_profi/COILSW01-ibom.html
 mod_scheme: doc/gen/COILSW01-schematic.pdf
-status: 0
+status: 2
 tags: []
 title: COILSW01
 updated: '2024-07-06T19:01:33.099352+00:00'
